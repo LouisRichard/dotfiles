@@ -10,4 +10,5 @@ Packages required :
 * dwmblocks
 * xwallpaper
 * pywal
+* pywalfox
 * xdotool
