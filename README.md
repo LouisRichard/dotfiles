@@ -7,6 +7,7 @@ Using DWM, Dmenu, and ST
 Packages required : 
 * ttf-JoyPixels
 * ttf-FontAwesome
+* ttf-jetbrains-mono
 * dwmblocks
 * xwallpaper
 * pywal
